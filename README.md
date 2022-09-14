@@ -1,4 +1,4 @@
-Oh, hello there :).
+Oh, hello there :slightly_smiling_face:	
 Welcome here! You are probably on the wrong page, but... you may also like to have a look.
 
 So, that's my name and about myself.... Yeaaaah, I don't have much to say for now.
