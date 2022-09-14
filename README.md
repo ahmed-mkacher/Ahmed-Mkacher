@@ -1,7 +1,6 @@
 Oh, hello there :)
 Welcome here! You are probably on the wrong page, but... you may also like to have a look.
 
-
 So, that's my name and about myself.... Yeaaaah, I don't have much to say for now.
 I am a freshman 1st year student at ESPRIT in Tunisia.
 Currently I am doing CS50X, 100 days of code in Python and taking the "Become a software developer" curriculum on LinkedIn Learning.
